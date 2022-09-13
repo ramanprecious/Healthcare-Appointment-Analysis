@@ -28,5 +28,16 @@ Project Methodology:
 - Data wrangling
 - Exploratory data analysis
 
-## Project two -
+## Project two - [We Rate Dogs](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/WeRateDogs/wrangle_act.ipynb)
 
+This project focuses on the use of data analytics skills, with major concentration on the pandas, to analyse datasets obtained from twitter's space. The real purpose of the project is to apply wrangle and visualize a real-world data to expose hidden insights and answer questions. 
+
+**WeRateDogs** is an international recognised account on the twitter platform, with over four million active followers, which engages its audience to rate posted dog images. The dataset explored in this project was derived from three seperate pieces of data gathered from WeRateDogs using three data gathering techniques.
+
+Project Methodology:
+- Gathering data
+- Accessing data
+- Cleaning data
+- Exploratory Data Visualization
+
+The gathering methods are **downloading locally**, **downloading programmatically** and **use of Twitter API**. 
