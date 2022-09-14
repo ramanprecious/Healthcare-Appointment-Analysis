@@ -50,7 +50,7 @@ Project Methodology:
 To access detailed documentation that communicates the insights and displays the visualization(s) produced from this project, click this [link](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/WeRateDogs/act_report.ipynb).
 
 
-## Project three - [Prosper Loan]()
+## Project three - [Prosper Loan](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/ProsperLoan/Part_I_exploration_template.ipynb)
 
 A financial technology company is a place where you can borrow and lend money. Fintech companies are easing payment processes, reducing fraud, saving users money, promoting financial planning, and ultimately moving a massive industry forward. Prosper is one of the Fintech companies who have been making waves over the years.
 
@@ -93,6 +93,8 @@ Other features explored include: Prosper rating, Borrowers' Rate, Term, Credit g
 > The number of defaulted loans pre-revolution of the company is higher than that of  post-revolution. This shows that the decision to revolutionize the company was a success. 
 
 > High risk loans have a higher lender yield. This is profitable for lenders, as borrowers with poor credit rating will have higher APR which returns higher yields. Also, there are many defaulted loans in the high risk category, thereby proving that the prosper rating system for loan approval is somewhat accurate.
+
+The html file containing the slidedeck for this project is found [here](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/ProsperLoan/Part_II_slide_deck_template.slides.html)
 
 
 
