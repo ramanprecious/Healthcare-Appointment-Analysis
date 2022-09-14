@@ -94,7 +94,7 @@ Other features explored include: Prosper rating, Borrowers' Rate, Term, Credit g
 
 > High risk loans have a higher lender yield. This is profitable for lenders, as borrowers with poor credit rating will have higher APR which returns higher yields. Also, there are many defaulted loans in the high risk category, thereby proving that the prosper rating system for loan approval is somewhat accurate.
 
-The file containing the slidedeck for this project is found [here](
+The html file containing the slidedeck for this project is found [here](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/ProsperLoan/Part_II_slide_deck_template.slides.html)
 
 
 
