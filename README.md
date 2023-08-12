@@ -1,6 +1,6 @@
 
 
-## [No show appointment Analysis](https://github.com/ramanprecious/Data-Analyst-Portfolio/blob/main/Investigate_a_Dataset.ipynb)
+## [No show appointment Analysis](https://github.com/ramanprecious/Healthcare-Appointment-Analysis/blob/main/Investigate_a_Dataset.ipynb)
 
 This project investigates medical appointments in Brazil in 2016 to determine why a person will make an appointment with a doctor and be absent on the visitation day. This has been the case in brazilian health sector over the years and even though a mitigating option, reminder by sms, was employed, there seem to be no visible change in the responses of people to scheduled visits. 
 The goal of this project is to understand these questions:
